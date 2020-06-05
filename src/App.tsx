@@ -12,9 +12,9 @@ function App() {
         <h2>Welcome to React</h2>
       </div>
       <p className="App-intro">
-        To get started, edit <code>src/App.tsx</code> and save to reload.
+        To get started, we want to edit <code>src/App.tsx</code> and save to reload.
       </p>
-      <Hello name="TypeScript" />
+      <Hello name="TypeScript 1st change" />
     </div>
   );
 }
