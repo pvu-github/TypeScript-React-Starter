@@ -4,6 +4,8 @@ import Hello from './components/Hello';
 
 const logo = require('./logo.svg');
 
+// add an inline comment
+
 function App() {
   return (
     <div className="App">
